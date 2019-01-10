@@ -5,11 +5,11 @@ Sistem Informasi Geografis Pemetaan Jalan di Kota Tembilahan dengan WebGIS
 View this Project-One [Coming soon](https://hendriekasaputra.github.io/Tembilahan-City-Road/)
 
 ## Screenshot
-- Picrute one
+### Picrute one
 ![screenshot](https://github.com/hendriekasaputra/Tembilahan-City-Road/blob/master/Screenshot_2019-01-10_1.png)
-- Picrute two
+### Picrute two
 ![screenshot](https://github.com/hendriekasaputra/Tembilahan-City-Road/blob/master/Screenshot_2019-01-10_2.png)
-- Picrute three
+### Picrute three
 ![screenshot](https://github.com/hendriekasaputra/Tembilahan-City-Road/blob/master/Screenshot_2019-01-10_3.png)
 
 ## How to use
