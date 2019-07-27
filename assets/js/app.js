@@ -352,7 +352,8 @@ $("#searchbox").keypress(function (e) {
 
 $("#featureModal").on("hidden.bs.modal", function (e) {
   $(document).on("mouseout", ".feature-row", clearHighlight);
-});
+})
+//
 
 /* Typeahead search functionality */
 $(document).one("ajaxStop", function () {
@@ -371,8 +372,8 @@ $(document).one("ajaxStop", function () {
     queryTokenizer: Bloodhound.tokenizers.whitespace,
     local: tembilahanSearch,
     limit: 10
-  });
-
+  })
+//
 
   var geonamesBH = new Bloodhound({
     name: "GeoNames",
